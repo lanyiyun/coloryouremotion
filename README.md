@@ -1,4 +1,4 @@
-# color your emotion
+# Color Your Emotion
 
 
 ####this is the code written for insight project "Color Your Emotion" available at http://coloryouremotion.com
