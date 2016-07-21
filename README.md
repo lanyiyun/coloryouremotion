@@ -1,7 +1,8 @@
 # Color Your Emotion
 
 
-####this is the code written for insight project "Color Your Emotion" available at http://coloryouremotion.com
+####An overview of the code structure proposed for the insight project "Color Your Emotion" 
+####More details regarding the project available at http://coloryouremotion.com
 ===========================================================================================================
 ## An Overview of Code Structure
 - The file consists four modules:
